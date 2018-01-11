@@ -12,7 +12,6 @@ public class Main {
         wuerfel.abmelden(b1);
         wuerfel.wuerfeln();
 
-
     }
 
 }
